@@ -1,3 +1,21 @@
+# My Solution to the assignment
+I have created the TODO List application with all the required CRUD functionalities and written tests for them.
+
+## Frontend
+I've used the provided template and created a simple client UI with tailwindcss and some lucid icons. 
+
+You can:
+- view tasks
+- create tasks
+- rename tasks ( by clicking on the text )
+- delete tasks
+- change state from completed to not completed
+
+## Backend
+I have chosen to go with the simple route of using in-memory storage.
+Folders: Controllers, Models, Repositories have been created for better project organisation.
+All required CRUD operations have been implemented and tested using xUnit.
+
 # TodoList Assignment  
 
 Build a **TODO list application** with a **React frontend** and a **C# backend API**.  
